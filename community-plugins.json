@@ -58462,5 +58462,12 @@
     "author": "Enshine LEWIS",
     "description": "Develop articles from local notes with traceable sources and human approval. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cloudenshine/OpenContent"
+  },
+  {
+    "id": "multiline-tabs-wheel-scroll",
+    "name": "Multiline Tabs Wheel Scroll",
+    "author": "lxa",
+    "description": "Smooth wheel scrolling and drag-and-drop reordering for wrapped editor tabs, including cross-window moves.",
+    "repo": "ltz6/obsidian-multiline-tabs-wheel-scroll"
   }
 ]
