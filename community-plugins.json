@@ -58466,7 +58466,7 @@
   {
     "id": "multiline-tabs-wheel-scroll",
     "name": "Multiline Tabs Wheel Scroll",
-    "author": "lxa",
+    "author": "ltz6",
     "description": "Smooth wheel scrolling and drag-and-drop reordering for wrapped editor tabs, including cross-window moves.",
     "repo": "ltz6/obsidian-multiline-tabs-wheel-scroll"
   }
