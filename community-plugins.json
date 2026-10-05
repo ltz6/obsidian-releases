@@ -58938,5 +58938,12 @@
     "author": "leeguamanse",
     "description": "Tag notes and individual links, then search their tags together. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "leeguamanse/obsidian-link-tag-search"
+  },
+  {
+    "id": "multiline-tabs-wheel-scroll",
+    "name": "Multiline Tabs Wheel Scroll",
+    "author": "ltz6",
+    "description": "Smooth wheel scrolling and cross-window tab dragging with adjustable rows, tab width, scroll behavior, row spacing, and drag auto-scroll. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ltz6/obsidian-multiline-tabs-wheel-scroll"
   }
 ]
